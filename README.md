@@ -38,15 +38,6 @@
 - VeryAnimation (有料のUnityアニメーション作成アセット)：https://assetstore.unity.com/packages/tools/animation/very-animation-96826?locale=ja-JP
 - NuGetForUnity ( C#ライブラリをUnityで利用可能にするアセット)：https://github.com/GlitchEnzo/NuGetForUnity
 
-/**
-BreathController
-
-Copyright (c) 2015 Toshiaki Aizawa (https://twitter.com/xflutexx)
-
-This software is released under the MIT License.
- http://opensource.org/licenses/mit-license.php …
-*/
-
 ### コードについて
 InitGameSystem.cs
 最初のシーンを管理するオブジェクトに付けるコンポーネント
