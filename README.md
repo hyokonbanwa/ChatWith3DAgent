@@ -4,7 +4,7 @@
 - 　プロジェクトに有料のライブラリが含まれるためコードは一部公開とする。
 
 ### 実際のプレイ画面
-<video src=""></video>
+<video src="https://github.com/hyokonbanwa/ChatWith3DAgent/blob/main/VRMChatAgent%202023-01-22%2022-07-05.mp4"></video>
 
 ### アプリ実行方法
 １．
