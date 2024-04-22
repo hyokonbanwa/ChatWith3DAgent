@@ -9,7 +9,7 @@
 
 
 ### アプリ実行方法
-１．
+１．リポジトリをクローンする「git clone https://github.com/hyokonbanwa/ChatWith3DAgent.git」 
 
 ２．
   
@@ -39,9 +39,10 @@
 - NuGetForUnity ( C#ライブラリをUnityで利用可能にするアセット)：https://github.com/GlitchEnzo/NuGetForUnity
 
 ### コードについて
-InitGameSystem.cs
+コードは「/code」フォルダー以下にあります。
+* InitGameSystem.cs
 最初のシーンを管理するオブジェクトに付けるコンポーネント
-InitSceneData.cs
+* InitSceneData.cs
 ユーザデータを格納するScriptableObjecに付けるコンポーネント
-InteractionSystem.cs
-
+* InteractionSystem.cs
+ユーザーの入力→ChatGPTの応答→エージェントの動作のループ処理を行う
